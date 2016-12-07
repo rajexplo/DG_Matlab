@@ -1,1 +1,1 @@
-# DG_Matlab_Acoustic_Wave_Equation_using_Upwind_Flux
+# DG_Matlab_Elastic_Wave_Equation_using_Upwind_Flux
